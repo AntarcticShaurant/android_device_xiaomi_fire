@@ -29,8 +29,8 @@ It was announced and released in June 2023.
 
 ## Device picture
 
-<img src="![xiaomi-redmi-12](https://github.com/AntarticShaurant/android_device_xiaomi_fire/assets/109678650/a2156932-ebbf-4562-93f3-abe1c7c51619)
-" width="45%"/>
+![xiaomi-redmi-12-1](https://github.com/AntarticShaurant/android_device_xiaomi_fire/assets/109678650/bd593af4-92d4-4d5a-872d-e21bbb699a89)
+
 
 ## WARNING
 
