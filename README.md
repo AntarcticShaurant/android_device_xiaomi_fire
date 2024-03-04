@@ -1,4 +1,4 @@
-# This repo has been moved to https://github.com/Xiaomi-fire-unofficial-development/twrp_device_xiaomi_fire
+# This repo has been moved to https://github.com/redmi-fire-devs/twrp_device_xiaomi_fire
 
 
 
